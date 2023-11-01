@@ -5,7 +5,7 @@
 <br>
 
 
-## 🍀 Level 4 - Team Project
+## 🍀 Level 4 - Spring In-depth
 
 ### 📆 기간
 
