@@ -3,21 +3,54 @@
 ### | 우아한테크코스 5기 백엔드 활동 내용을 기록합니다.
 
 
+## 🍀 Level 4 - Team Project
+
+### 📆 기간
+
+**|** 2023.08.29 ~ 2023.10.27
+
+### 📋 학습 목표
+- Tomcat을 구현하며, HTTP와 서블릿에 대한 이해도를 높인다.
+- MVC 프레임워크를 구현하며, 내부 동작 원리에 대한 이해도를 높인다.
+- JDBC 라이브러리를 구현하며, 데이터베이스에 대한 이해도를 높인다.
+- 레거시 코드를 리팩터링하며, 안정적으로 서비스를 운영해 보는 경험을 한다.
+- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
+
+<br>
+
+### 💻 미션
+
+| 순서 | 이름 | PR 1 | PR 2 | PR3 | 기간 |
+| --- | --- | --- | --- | --- | --- |
+| 1 | [Tomcat 구현하기](https://github.com/junpakPark/jwp-dashboard-http) | [step1,2](https://github.com/woowacourse/jwp-dashboard-http/pull/379) | [step3,4](https://github.com/woowacourse/jwp-dashboard-http/pull/407) | - | 2023.08.31 ~ 2023.09.11 |
+| 2 | [MVC 프레임워크 구현하기](https://github.com/junpakPark/jwp-dashboard-mvc) | [step1](https://github.com/woowacourse/jwp-dashboard-mvc/pull/369) | [step2](https://github.com/woowacourse/jwp-dashboard-mvc/pull/501) | [step3](https://github.com/woowacourse/jwp-dashboard-mvc/pull/595) | 2023.09.12 ~ 2023.09.25 |
+| 3 | [JDBC 라이브러리 구현하기](https://github.com/woowacourse/jwp-dashboard-jdbc) | [step1,2](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/263) | [step3](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/496)| [step4](https://github.com/woowacourse/jwp-dashboard-jdbc/pull/607)  | 2023.09.26 ~ 2023.10.09 |
+| 4 | [레거시 코드 리팩터링](https://github.com/junpakPark/jwp-refactoring) | [step1](https://github.com/woowacourse/jwp-refactoring/pull/552) | [step2](https://github.com/woowacourse/jwp-refactoring/pull/594) | [step3,4](https://github.com/woowacourse/jwp-refactoring/pull/641) | 2023.10.10 ~ 2023.10.27 |
+
+<br>
+
+## 🌿 Level 3 - Team Project
+
+### 📆 기간
+
+**|** 2023.06.27 ~ 2023.08.18
+
+
 <br>
 
 ## 🌱 Level 2 - Spring
 
 ### 📆 기간
 
-**|** 2023.4.11 ~ 2023.6.09
+**|** 2023.04.11 ~ 2023.06.09
 
 <br>
 
 ### 📋 학습 목표
-- 스프링 프레임워크를 이용해 웹 애플리케이션을 개발
-- 학습 테스트를 통해 새로운 기술을 익히고 미션에 적용
-- 클라우드 환경에 애플리케이션을 배포하고 운영
-- 새로운 기술을 익히는 본인만의 효과적인 학습 방법 찾기
+- 스프링 프레임워크 기반으로 웹 애플리케이션을 개발하는 경험을 한다.
+- TDD, ATDD 기반으로 웹 애플리케이션을 개발하고 리팩터링하는 경험을 한다.
+- 학습 테스트를 통해 새로운 기술을 익히고, 적용하는 경험을 한다.
+- 클라우드 환경에 애플리케이션을 배포하는 경험을 한다.
 
 <br>
 
@@ -36,7 +69,7 @@
 
 ### 📆 기간
 
-**|** 2023.2.7 ~ 2023.3.31
+**|** 2023.02.07 ~ 2023.03.31
 
 <br>
 
@@ -77,3 +110,15 @@
 | 3 | [다리 건너기](https://github.com/junpakPark/java-bridge) | [PR](https://github.com/woowacourse-precourse/java-bridge/pull/116) | 2022.11.16 ~ 2022.11.22 |
 | 4 | [점심 메뉴 추천(최종 미션)](https://github.com/junpakPark/java-menu) | [PR](https://github.com/woowacourse-precourse/java-menu/pull/156) | 2022.12.17 ~ 2022.12.17 |
 
+
+<br>
+
+## 🌸 ETC
+
+|Level |Topic |Repository |Pull Request |
+|:----:|:----:|:---------:|:-----------:|
+|1 | 글쓰기 미션 |[우아한테크코스 한 달 생활기](https://github.com/junpakPark/woowa-writing-5/blob/Level4/Level1.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/443)|
+|2 | 글쓰기 미션 |[내 생각과 감정을 말과 글로 표현하기](https://github.com/junpakPark/woowa-writing-5/blob/Level4/Level2.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/230)|
+|2 | 테코톡 |[[10분 테코톡] 이레, 준팍의 빌드와 배포](https://youtu.be/4LBMCHFLLpg?si=dd-KDTrBYAqc83V2)| - |
+|3 | 글쓰기 미션 |[팀 프로젝트 서비스 소개 글 작성](https://github.com/junpakPark/woowa-writing-5/blob/Level4/Level3.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/370)|
+|4 | 글쓰기 미션 |[내가 꿈꾸는 프로그래머로서의 삶](https://github.com/junpakPark/woowa-writing-5/blob/Level4/Level4.md)|[Pull Request](https://github.com/woowacourse/woowa-writing-5/pull/443)|
