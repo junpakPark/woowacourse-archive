@@ -41,6 +41,24 @@
 
 <br>
 
+### 📋 학습 목표
+- 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
+- 서비스를 기획, 구현, 배포해 실사용자가 사용하도록 개발하는 경험을 한다.
+
+<br>
+
+## 📍괜찮을지도: 지도 기반 참여형 데이터 매핑 서비스
+- 괜찮을 지도는 “지도 기반 참여형 데이터 매핑 서비스”로서, <br>
+당신의 관심사를 📍다양한 지도로 만들 수 있게 도와드리고 있어요!😉🌈
+
+### 서비스
+- [서비스 바로가기](https://mapbefine.com/)
+- [Source code](https://github.com/woowacourse-teams/2023-map-befine)
+- [Github Wiki](https://github.com/woowacourse-teams/2023-map-befine/wiki)
+- [기술 블로그](https://map-befine-official.github.io/)
+
+<br>
+
 ## 🌱 Level 2 - Spring
 
 ### 📆 기간
@@ -109,9 +127,10 @@
 | 순서 | 이름 | PR |  기간 |
 | --- | --- | --- | --- |
 | 1 | [온보딩](https://github.com/junpakPark/java-onboarding) | [PR](https://github.com/woowacourse-precourse/java-onboarding/pull/158) | 2022.10.26 ~ 2022.11.01 |
-| 2 | [로또](https://github.com/junpakPark/java-lotto) | [PR](https://github.com/woowacourse-precourse/java-lotto/pull/35) | 2022.11.09 ~ 2022.11.15 |
-| 3 | [다리 건너기](https://github.com/junpakPark/java-bridge) | [PR](https://github.com/woowacourse-precourse/java-bridge/pull/116) | 2022.11.16 ~ 2022.11.22 |
-| 4 | [점심 메뉴 추천(최종 미션)](https://github.com/junpakPark/java-menu) | [PR](https://github.com/woowacourse-precourse/java-menu/pull/156) | 2022.12.17 ~ 2022.12.17 |
+| 2 | [숫자야구](https://github.com/junpakPark/java-baseball) | [PR](https://github.com/woowacourse-precourse/java-baseball/pull/158) | 2022.11.02 ~ 2022.11.08 |
+| 3 | [로또](https://github.com/junpakPark/java-lotto) | [PR](https://github.com/woowacourse-precourse/java-lotto/pull/35) | 2022.11.09 ~ 2022.11.15 |
+| 4 | [다리 건너기](https://github.com/junpakPark/java-bridge) | [PR](https://github.com/woowacourse-precourse/java-bridge/pull/116) | 2022.11.16 ~ 2022.11.22 |
+| 5 | [점심 메뉴 추천(최종 미션)](https://github.com/junpakPark/java-menu) | [PR](https://github.com/woowacourse-precourse/java-menu/pull/156) | 2022.12.17 ~ 2022.12.17 |
 
 
 <br>
