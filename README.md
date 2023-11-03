@@ -48,14 +48,13 @@
 <br>
 
 ## 📍괜찮을지도: 지도 기반 참여형 데이터 매핑 서비스
-- 괜찮을 지도는 “지도 기반 참여형 데이터 매핑 서비스”로서, <br>
+괜찮을 지도는 “지도 기반 참여형 데이터 매핑 서비스”로서, <br>
 당신의 관심사를 📍다양한 지도로 만들 수 있게 도와드리고 있어요!😉🌈
 
-### 서비스
-- [서비스 바로가기](https://mapbefine.com/)
-- [Source code](https://github.com/woowacourse-teams/2023-map-befine)
-- [Github Wiki](https://github.com/woowacourse-teams/2023-map-befine/wiki)
-- [기술 블로그](https://map-befine-official.github.io/)
+| 이름 | Soruce Code | Wiki | 기술 블로그 |
+| --- | --- | --- | --- | 
+| [괜찮을지도](https://mapbefine.com/) | [Repository](https://github.com/woowacourse-teams/2023-map-befine) | [Github Wiki](https://github.com/woowacourse-teams/2023-map-befine/wiki) | [기술 블로그](https://map-befine-official.github.io/) |
+
 
 <br>
 
